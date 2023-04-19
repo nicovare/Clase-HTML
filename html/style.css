@@ -1,0 +1,10 @@
+div {
+    border: 2px solid red;
+    border-left: 5px solid blue;
+    padding: 20px;
+    height: 150px;
+    border solid color: #092454 3px;
+}
+* {
+    margin: 20px;
+}
